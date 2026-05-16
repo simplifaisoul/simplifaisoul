@@ -2,18 +2,24 @@
 
 <div align="center">
 
-```
- ██████╗ ██╗███╗   ███╗██████╗ ██╗     ██╗███████╗ █████╗ ██╗
-██╔════╝ ██║████╗ ████║██╔══██╗██║     ██║██╔════╝██╔══██╗██║
-╚█████╗  ██║██╔████╔██║██████╔╝██║     ██║█████╗  ███████║██║
- ╚═══██╗ ██║██║╚██╔╝██║██╔═══╝ ██║     ██║██╔══╝  ██╔══██║██║
-██████╔╝ ██║██║ ╚═╝ ██║██║     ███████╗██║██║     ██║  ██║██║
-╚═════╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝╚═╝     ╚═╝  ╚═╝╚═╝
-```
+██████╗   ██████╗  ██╗   ██╗ ██╗      
+██╔════╝  ██╔═══██╗ ██║   ██║ ██║      
+╚█████╗   ██║   ██║ ██║   ██║ ██║      
+ ╚═══██╗  ██║   ██║ ██║   ██║ ██║      
+██████╔╝  ╚██████╔╝ ╚██████╔╝ ███████╗ 
+╚═════╝    ╚═════╝   ╚═════╝  ╚══════╝ 
+
+ ██████╗  ██╗ ███╗   ███╗ ██████╗  ██╗       ██╗ ███████╗  █████╗  ██╗
+██╔════╝  ██║ ████╗ ████║ ██╔══██╗ ██║       ██║ ██╔════╝ ██╔══██╗ ██║
+╚█████╗   ██║ ██╔████╔██║ ██████╔╝ ██║       ██║ █████╗   ███████║ ██║
+ ╚═══██╗  ██║ ██║╚██╔╝██║ ██╔═══╝  ██║       ██║ ██╔══╝   ██╔══██║ ██║
+██████╔╝  ██║ ██║ ╚═╝ ██║ ██║      ███████╗  ██║ ██║      ██║  ██║ ██║
+╚═════╝   ╚═╝ ╚═╝     ╚═╝ ╚═╝      ╚══════╝  ╚═╝ ╚═╝      ╚═╝  ╚═╝ ╚═╝
 
 
-<h1 align="center">Souleimen Mrad</h1>
-<h3 align="center">Full-Stack Developer · Founder of SimplifAI · Open Source</h3>
+
+<h1 align="center">Soul</h1>
+<h3 align="center">Full-Stack Developer · Founder of SimplifAI-1 · Open Source</h3>
 
 <p align="center">
   <a href="https://osiris-jet.vercel.app" target="_blank">
@@ -48,7 +54,6 @@ Currently available for **freelance contracts** and **full-time roles** in full-
         <img src="https://img.shields.io/badge/MapLibre_GL-396cb2?style=flat-square" />
         <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
       </p>
-      <p>⭐ 128 stars &nbsp;·&nbsp; 🔗 <a href="https://osiris-jet.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ <a href="https://github.com/simplifaisoul/workflow-engine">Workflow Engine</a></h3>
