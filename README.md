@@ -108,4 +108,4 @@ Currently available for **freelance contracts** and **full-time roles** in full-
 
 I'm open to full-time roles and freelance contracts — particularly in **real-time data systems**, **full-stack TypeScript/Python**, **developer tooling**, and **geospatial applications**.
 
-📧 **your.email@gmail.com** &nbsp;·&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/soulsimplifai)** &nbsp;·&nbsp; 🌍 **Tunisia**
+📧 **soulsimplifai@gmail.com** &nbsp;·&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/soulsimplifai)** &nbsp;·&nbsp; 🌍 **WorldWide**
