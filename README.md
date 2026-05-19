@@ -18,8 +18,6 @@
 
 ---
 
-I build production-grade open-source tools — real-time data platforms, workflow automation engines, and AI infrastructure anyone can self-host and own. Founder of **SimplifAI**, 53 public repositories, and the creator of [Osiris](https://github.com/simplifaisoul/osiris), the most complete open-source alternative to Palantir Gotham currently available.
-
 Currently available for **freelance contracts** and **full-time roles** in full-stack development, real-time systems, or developer tooling.
 
 ---
