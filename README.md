@@ -5,13 +5,13 @@
 <h3 align="center">Full-Stack Developer · Founder of SimplifAI-1 · Open Source</h3>
 
 <p align="center">
-  <a href="https://osiris-jet.vercel.app" target="_blank">
+  <a href="https://osirisai.live" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Osiris%20Dashboard-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:soulsimplifai@gmail.com">
     <img src="https://img.shields.io/badge/Available%20for%20Hire-Open%20to%20Work-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/soulsimplifai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
