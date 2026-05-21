@@ -18,7 +18,7 @@
 
 ---
 
-Currently available for **freelance contracts** and **full-time roles** in full-stack development, real-time systems, or developer tooling.
+Currently available for **freelance contracts** and  in full-stack development, real-time systems, or developer tooling.
 
 ---
 
