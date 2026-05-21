@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm **simplifaisoul** 👋
+# Hey, I'm **soulsimplifai** 👋
 
 ### Full-Stack Engineer · OSINT Builder · AI Infrastructure Architect
 
