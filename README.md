@@ -4,8 +4,8 @@
 
 ### Full-Stack Engineer · OSINT Builder · AI Infrastructure Architect
 
-[![Portfolio](https://img.shields.io/badge/Simplifa--i.com-Agency-D4AF37?style=for-the-badge&logo=vercel)](https://simplifa-i.com)
-[![Osiris](https://img.shields.io/badge/OSIRIS-Live_Demo-00E5FF?style=for-the-badge&logo=vercel)](https://osiris-theta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Simplifa--i.com-Agency-D4AF37?style=for-the-badge&logo=vercel)](https://simplifa-1.com)
+[![Osiris](https://img.shields.io/badge/OSIRIS-Live_Demo-00E5FF?style=for-the-badge&logo=vercel)](https://osirisai.live)
 
 <br>
 
