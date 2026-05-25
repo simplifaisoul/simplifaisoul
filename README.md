@@ -12,10 +12,6 @@
 
 <a href='https://ko-fi.com/osirisai' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<a href='https://www.patreon.com/posts/159077425' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt=' OSIRIS Patreon' /></a>
-
-Support OSIRIS on Patreon](
-
 </div>
 
 ---
