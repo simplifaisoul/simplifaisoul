@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Simplifa--i.com-Agency-D4AF37?style=for-the-badge&logo=vercel)](https://simplifa-1.com)
 [![Osiris](https://img.shields.io/badge/OSIRIS-Live_Demo-00E5FF?style=for-the-badge&logo=vercel)](https://osirisai.live)
 
+
 <br>
 
 <a href='https://ko-fi.com/osirisai' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -76,6 +77,16 @@ Vulnerability Scan    RAG Pipelines         E-Commerce
 | [**Simplifa-i**](https://simplifa-i.com) | AI automation agency — developing client portals, interactive voice agents, and lead generation tools. | Next.js, Twilio, Vercel |
 
 ---
+
+**🛠️ SUPPORT THE OSIRIS PROJECT**
+The OSIRIS Global Intelligence Grid is entirely open-source, but running the backend scanners and data firehoses isn't cheap.
+
+If you want to keep the servers alive, unlock the **Special OSIRIS Console**, Currently Just a Cool UI. a you can officially support the project here : 
+
+🔗 [Support OSIRIS on Patreon](https://www.patreon.com/posts/159077425)
+
+*Supporters receive the `🔴 RedTeam Console` role and access to encrypted developer comms.*
+
 
 ### ☕ Support My Work
 
