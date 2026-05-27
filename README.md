@@ -98,8 +98,6 @@ Open-source intelligence tools and autonomous infrastructure take significant ti
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplifaisoul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=00E5FF&text_color=C9D1D9)
-
 *"Build systems, not features."*
 
 </div>
